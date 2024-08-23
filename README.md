@@ -1,0 +1,1 @@
+# struct-pattern-go
